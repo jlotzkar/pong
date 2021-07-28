@@ -1,8 +1,7 @@
-Description
-
 "My partner and I chose to recreate Pong for our final ECE243 project. The game was written in C to work on the De1-SoC board using a VGA display and ps/2 keyboard. It can also work the CPUlator simulator. ... Photos of what the game looks like and how it works are described below.
 
-How to play
+**How to play**
+
 Key	Location	Function
 H	Title Screen	Help - takes you to more settings + instructions
 2	Title Screen	Selects 2 Player Mode
